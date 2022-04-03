@@ -1,10 +1,10 @@
 html,
 body {
-  padding: 0;
+  padding: 10px;
   margin: 0;
-  font-family: "BIZ UDPMincho", serif;
   background-color: #FEFFFF;
   color: #17252A;
+  text-align: left;
 }
 
 a {
@@ -12,6 +12,39 @@ a {
   text-decoration: none;
 }
 
+h1.title {
+  font-family: 'Send Flowers', cursive;
+}
+
+p {
+  font-size: large;
+}
+
 * {
   box-sizing: border-box;
+}
+
+.img-align {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  height: 450px;
+  width: auto;
+
+}
+
+#tv {
+  width: auto;
+  height: 450px;
+  background: white;
+  border-radius: 0% 0% 0% 0% / 0% 0% 0% 0% ;
+  color: white;
+  box-shadow: 20px 20px rgba(0,0,0,.15);
+  transition: all .4s ease;
+}
+#tv:hover {
+  border-radius: 0% 0% 50% 50% / 0% 0% 0% 0% ;
+  box-shadow: 10px 10px rgba(0,0,0,.25);
 }
