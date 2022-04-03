@@ -19,12 +19,12 @@ export default function Home() {
         <PageStyle>
           <div>
             <h1 className='title'>Welcome to Vermont. Welcome to Mount Snow. Welcome Home.</h1>
-            <div className='img-align' id='tv'>
+            <div className='img-align'>
               <img src='/images/mountsnow.JPG'></img>
             </div>
           </div>
           <div>
-            <p>We're happy you're here.</p>
+            <h3>We're happy you're here.</h3>
           </div>
         </PageStyle>
       </Font>

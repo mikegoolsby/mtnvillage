@@ -4,6 +4,7 @@ const Navi = styled.ul`
   margin: 0;
   padding: 0;
   display: flex;
+  justify-content: center;
   justify-self: end;
   font-size: 2rem;
   background-color: #FEFFFF;
