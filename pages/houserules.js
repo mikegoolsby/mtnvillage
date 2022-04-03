@@ -6,6 +6,16 @@ import styled from 'styled-components';
 const PageStyle = styled.div`
   display: flex;
   justify-content: center;
+  align-items: center;
+  flex-direction: column;
+`
+
+const List = styled.ul`
+  list-style-type: square;
+  border-radius: 6px;
+  box-shadow: 7px 12px 4px #2B7A78;
+  padding: 10px;
+  margin-right: 10px;
 `
 
 export default function Rules() {
@@ -13,10 +23,21 @@ export default function Rules() {
       <>
       <Nav/>
       <Font>
-          <PageStyle>
-              <p>
-                  HOUSE RULES, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet risus nullam eget felis. Volutpat consequat mauris nunc congue nisi vitae suscipit tellus mauris. Sed felis eget velit aliquet sagittis id. Pellentesque massa placerat duis ultricies lacus. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet dui. Sed sed risus pretium quam vulputate dignissim. Eu mi bibendum neque egestas congue quisque egestas diam in. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada bibendum. Tortor condimentum lacinia quis vel eros donec. Aliquet sagittis id consectetur purus. Rhoncus mattis rhoncus urna neque. Elementum integer enim neque volutpat ac tincidunt vitae semper. Augue mauris augue neque gravida. Egestas purus viverra accumsan in nisl nisi. Leo vel fringilla est ullamcorper eget nulla facilisi etiam. Penatibus et magnis dis parturient montes nascetur ridiculus mus mauris. Pretium quam vulputate dignissim suspendisse in est ante in nibh.
-              </p>
+          <PageStyle className="excepthere">
+            <div>
+              <h3>Thanks for following the rules.</h3>
+            </div>
+            <div>
+              <List>
+                <li>Have fun. This is non-negotiable.</li>
+                <li>rule 2</li>
+                <li>rule 3</li>
+                <li>rule 4</li>
+                <li>rule 5</li>
+                <li>rule 6</li>
+                <li>rule 7</li>
+              </List>
+            </div>
             </PageStyle>
       </Font>
       </>

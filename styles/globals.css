@@ -2,9 +2,9 @@ html,
 body {
   padding: 10px;
   margin: 0;
-  background-color: #FEFFFF;
+  background-color: #DEF2F1;
   color: #17252A;
-  text-align: left;
+  text-align: center;
 }
 
 a {
@@ -31,11 +31,13 @@ p {
 }
 
 img {
+  margin-top: 35px;
+  margin-bottom: 35px;
   height: 450px;
   width: auto;
   border-radius: 6px;
-  box-shadow: 7px 7px;
-  color: #DEF2F1;
+  box-shadow: 7px 7px 4px;
+  color: #2B7A78;
   transform: scale(1.0) rotate(1deg);
   transition-duration: .5s;
 }
@@ -43,4 +45,8 @@ img {
 img:hover {
   transform: scale(0.98) rotate(-1deg);
   transition-duration: .5s;
+}
+
+.excepthere {
+  text-align: left;
 }

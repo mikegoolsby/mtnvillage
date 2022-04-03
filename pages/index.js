@@ -25,6 +25,10 @@ export default function Home() {
           </div>
           <div>
             <h3>We're happy you're here.</h3>
+            <br/>
+            <br/>
+            <h3>Oh yeah, the wifi password: </h3>
+            <p>eatsleepski</p>
           </div>
         </PageStyle>
       </Font>

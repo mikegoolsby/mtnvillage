@@ -6,6 +6,14 @@ import styled from 'styled-components';
 const PageStyle = styled.div`
   display: flex;
   justify-content: center;
+  align-items: center;
+`
+
+const TextDiv = styled.div`
+  border-radius: 6px;
+  box-shadow: 7px 12px 4px #2B7A78;
+  padding: 10px;
+  margin-right: 10px;
 `
 
 export default function Amenities() {
@@ -14,9 +22,16 @@ export default function Amenities() {
         <Nav/>
         <Font>
             <PageStyle>
+              <TextDiv className="excepthere">
                 <p>
-                AMENITIES, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet risus nullam eget felis. Volutpat consequat mauris nunc congue nisi vitae suscipit tellus mauris. Sed felis eget velit aliquet sagittis id. Pellentesque massa placerat duis ultricies lacus. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet dui. Sed sed risus pretium quam vulputate dignissim. Eu mi bibendum neque egestas congue quisque egestas diam in. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada bibendum. Tortor condimentum lacinia quis vel eros donec. Aliquet sagittis id consectetur purus. Rhoncus mattis rhoncus urna neque. Elementum integer enim neque volutpat ac tincidunt vitae semper. Augue mauris augue neque gravida. Egestas purus viverra accumsan in nisl nisi. Leo vel fringilla est ullamcorper eget nulla facilisi etiam. Penatibus et magnis dis parturient montes nascetur ridiculus mus mauris. Pretium quam vulputate dignissim suspendisse in est ante in nibh.
+                  You're likely already here to ski or snowboard at Mount Snow, hit the trails on a snowmobile, or ride your mountain bike in the warmer months. Maybe you're just here to work from "home" in the serene Green Mountains away from the honking horns and swooping sirens of the city. We get it.
+                  <br/>
+                  <br/>
+                  <br/>
+                  Feel free to enjoy the pool & hot-tub, located within the amenity center at the Mountain Village. The Bluebird Express at Mount Snow is a half mile down N Access Road, with most of that trek being through the resort's parking lots.
+                  <br/>
                 </p>
+              </TextDiv>
             </PageStyle>
         </Font>
       </>

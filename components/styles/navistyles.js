@@ -7,7 +7,7 @@ const Navi = styled.ul`
   justify-content: center;
   justify-self: end;
   font-size: 2rem;
-  background-color: #FEFFFF;
+  background-color: #DEF2f1;
   a,
   button {
     padding: 1rem 3rem;
