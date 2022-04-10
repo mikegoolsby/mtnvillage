@@ -4,4 +4,5 @@ This project replaces the traditional paper-based flipbook found in most short-t
 ## WHAT DOES IT CONTAIN?
 Basic information about the rental, house rules, check in/out information, and directions about how to access the amenities.
 
-## README IS A WIP
+## TECH STACK
+Next.js (open source React framework) with styled components to assist with CSS. Built in Pop_OS on a Lemur Pro from System76.
