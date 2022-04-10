@@ -30,8 +30,9 @@ export default function Rules() {
             <div>
               <List>
                 <li>Have fun. This is non-negotiable.</li>
+                <li>We love pets, but for everyone's enjoyment, <b>this is a pet-friendlyrental</b>.</li>
                 <li>Please ensure the door is locked each time you leave the unit.</li>
-                <li>Do not turn the heat on higher than 72 degrees. See the instructions on the fireplace if you are looking to create extra-wintry vibes.</li>
+                <li><b>Do not turn the heat on higher than 72 degrees.</b> See the instructions on the fireplace if you are looking to create extra-wintry vibes.</li>
                 <li>rule 4</li>
                 <li>rule 5</li>
                 <li>rule 6</li>
