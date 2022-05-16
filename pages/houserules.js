@@ -30,13 +30,14 @@ export default function Rules() {
             <div>
               <List>
                 <li>Have fun. This is non-negotiable.</li>
-                <li>We love pets, but for everyone's enjoyment, <b>this is a pet-friendlyrental</b>.</li>
+                <li>Please contact Peak Property Management at xxx-xxx-xxxx for any rental-related emergency. Broken heaters, leaking faucet, that sort of thing.</li>
+                <li>We love pets, but for everyone&apos;s enjoyment, <b>this is a pet-friendly rental</b>.</li>
                 <li>Please ensure the door is locked each time you leave the unit.</li>
                 <li><b>Do not turn the heat on higher than 72 degrees.</b> See the instructions on the fireplace if you are looking to create extra-wintry vibes.</li>
-                <li>rule 4</li>
+                <li>Quiet hours are 11:00PM - 8:00AM. Please respect our neighbors, and let us know if they don&apos;t return the favor.</li>
                 <li>rule 5</li>
                 <li>rule 6</li>
-                <li>rule 7</li>
+                <li>Rule # 76: No excuses. Play like a champion.</li>
               </List>
             </div>
             </PageStyle>
