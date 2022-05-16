@@ -20,11 +20,11 @@ export default function Home() {
           <div>
             <h1 className='title'>Welcome to Vermont. Welcome to Mount Snow. Welcome Home.</h1>
             <div className='img-align'>
-              <img src='/images/mountsnow.JPG'></img>
+              <img alt="drone image depicting the snowy mountainscape of Mount Snow in West Dover, Vermont" src='/images/mountsnow.JPG'></img>
             </div>
           </div>
           <div>
-            <h3>We're happy you're here.</h3>
+            <h3>We&apos;re happy you&apos;re here. Please feel free to leverage this digital flipbook for the duration of your stay. Most of the information you&apos;ll need will be in here. Except dad jokes. Those aren&apos;t in here.</h3>
             <br/>
             <br/>
             <h3>Oh yeah, the wifi password: </h3>
