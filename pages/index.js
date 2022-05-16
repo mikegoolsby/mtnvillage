@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import Nav from '../components/Nav'
 import Font from '../components/styles/font'
 

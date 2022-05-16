@@ -24,11 +24,11 @@ export default function Amenities() {
             <PageStyle>
               <TextDiv className="excepthere">
                 <p>
-                  You're likely already here to ski or snowboard at Mount Snow, hit the trails on a snowmobile, or ride your mountain bike in the warmer months. Maybe you're just here to work from "home" in the serene Green Mountains away from the honking horns and swooping sirens of the city. We get it.
+                  You&apos;re likely already here to ski or snowboard at Mount Snow, hit the trails on a snowmobile, or ride your mountain bike in the warmer months. Maybe you&apos;re just here to work from &quot;home&quot; in the serene Green Mountains away from the honking horns and swooping sirens of the city. We get it.
                   <br/>
                   <br/>
                   <br/>
-                  Feel free to enjoy the pool & hot-tub, located within the amenity center at the Mountain Village. The Bluebird Express at Mount Snow is a half mile down N Access Road, with most of that trek being through the resort's parking lots.
+                  Feel free to enjoy the pool & hot-tub, located within the amenity center at the Mountain Village. The Bluebird Express at Mount Snow is a half mile down N Access Road, with most of that trek being through the resort&apos;s parking lots.
                   <br/>
                 </p>
               </TextDiv>
